@@ -8,6 +8,12 @@ public class Bank {
     private double amount;
     private final double TAX = 5.0;
 
+    
+    public Bank (int accountNumber, String accountHolder) {
+        this.accountNumber = accountNumber;
+        this.accountHolder = accountHolder;
+        this.balance = 0.0; // Initialize balance to zero
+    }
 
     public Bank(int accountNumber, String accountHolder, double balance) {
         this.accountNumber = accountNumber;
