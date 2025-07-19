@@ -43,7 +43,7 @@ git clone https://github.com/seu-usuario/java-study.git
 cd java-study
 
 # Compile um exemplo básico
-javac JavaBasics/01_FirstSteep/src/Main.java
+javac java_basics/ex1_first_steep/src
 
 # Execute
 java JavaBasics.01_FirstSteep.src.Main.java
