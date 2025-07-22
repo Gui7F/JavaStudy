@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "java_basics/ex2_Input_output/Scanner/src",
+        "java_basics/ex2_Input_output/Formaters/src",
+        "java_basics/ex1_first_steep/src",
+        "java_basics/ex5_list/ex2_employee_problem/src"
+    ]
+}

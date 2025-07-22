@@ -1,5 +1,6 @@
 import java.util.Locale;
 import java.util.Scanner;
+package application;
 
 public class Main{
     
@@ -16,7 +17,7 @@ public class Main{
         scanner.nextLine(); // Consume the newline character left by nextInt()
 
         System.out.println("Enter three double numbers:");
-        double d1 = scanner.nextDouble(); 
+        double d1 = scanner.nextDouble();
         double d2 = scanner.nextDouble();
         double d3 = scanner.nextDouble();
 
@@ -28,7 +29,7 @@ public class Main{
         char c3 = scanner.next().charAt(0);
 
         System.out.println("Enter three strings without spaces:");
-        String s1 = scanner.next(); 
+        String s1 = scanner.next();
         String s2 = scanner.next();
         String s3 = scanner.next();
 
