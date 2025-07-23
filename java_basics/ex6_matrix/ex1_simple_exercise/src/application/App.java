@@ -22,19 +22,19 @@ public class App {
         }
 
         System.out.print("A diagonal principal tem os seguintes elementos: ");
-        for(int i = 0 ; i < matrix.length ; i++){
-            System.out.print(matrix[i][i] + " ");
+        for(int i = 0 ; i < matrix.length ; i++){ //Percorre as linhas
+            System.out.print(matrix[i][i] + " "); // Pega linha com numero igual a coluna
         }
 
 
         
         
-        List <Integer> numberNegatives = new java.util.ArrayList<>();
+        List <Integer> numberNegatives = new java.util.ArrayList<>();// Cria a lista para salvar numeros negativos
 
-        for(int i = 0 ; i < matrix.length ; i++){
-            for (int j = 0 ; j < matrix[i].length; j++ ){
-               if (matrix[i][j] < 0) {
-                 numberNegatives.add(matrix[i][j]);
+        for(int i = 0 ; i < matrix.length ; i++){ // Percorre linhas
+            for (int j = 0 ; j < matrix[i].length; j++ ){ //Percorre colunas
+               if (matrix[i][j] < 0) { // Checa se o numero oe negativo
+                 numberNegatives.add(matrix[i][j]); // adiciona a lista 
                }
             }
         }
