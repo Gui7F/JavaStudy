@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "java_basics/ex5_list/ex2_employee_problem/src",
+        "java_basics/ex3_oop_basic/ex05_bank_account/src",
         "java_basics/ex3_oop_basic/ex04_convert_coin/src",
         "java_basics/ex3_oop_basic/ex03_student_class/src",
         "java_basics/ex3_oop_basic/ex02_triangle_class/src",
@@ -8,8 +9,6 @@
         "java_basics/ex2_Input_output/Scanner/src",
         "java_basics/ex2_Input_output/Formaters/src",
         "java_basics/ex1_first_steep/src",
-        "java_basics/ex3_oop_basic/ex05_bank_account/src",
-        "java_basics/ex6_matrix/ex1_simple_exercise/src",
-        "java_basics/ex6_matrix/ex2_matrix_problem/src"
+        "java_basics/ex6_matrix/ex2_matrix_problem/src",
     ]
 }
