@@ -1,12 +1,13 @@
 package application;
 
-import java.util.Scanner;
+import entities.CalculateMatrix;
 import entities.Matrix;
+import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        Scanner sc = new Scanner();
-        System.out.print("Enter the number of rows and columns for matrix: ");
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number of rows and columns for matrix: ");
 
         System.out.println("Number of rows: ");
         int numberOfRows = sc.nextInt();
@@ -21,10 +22,14 @@ public class App {
 
         System.out.println("Enter all numbers for matrix: ");
         matrix.makeMatrix();
+        matrix.printMatrix();
 
-        System.out.print(matrix);
-        
+        System.out.println("Enter one number of your matrix to see how many equals and your neighbors:");
+        int numberChoice = sc.nextInt();
+        sc.nextLine();
+        CalculateMatrix calc = new CalculateMatrix(matrix.getMatrix(), numberChoice);
+        calc.printAllNeighbors();
 
-        
+        sc.close();
     }
 }

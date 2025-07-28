@@ -1,8 +1,10 @@
 package entities;
+import java.util.Scanner;
 
 public class Matrix {
     private int rows;
     private int columms;
+    private int [][] matrix;
 
     public Matrix(int columms, int rows){
         this.rows = rows;
@@ -17,15 +19,28 @@ public class Matrix {
         return columms;
     }
 
-    public void makeMatrix(){
-        int[][] matrix = new int[getRows()][getColumms()];
+    public int[][] getMatrix(){
+        return matrix;
+    }
 
-        for(int i = 0 ; i < getRows(); i++){
-            for (int j = 0 ; j < getColumms(); j++ ){
+    public void makeMatrix(){
+        matrix = new int[getRows()][getColumms()];
+        Scanner sc = new Scanner(System.in);
+        for(int i = 0 ; i < matrix.length; i++){
+            for (int j = 0 ; j < matrix[i].length; j++ ){
                 matrix[i][j] = sc.nextInt();
             }
         }
     }
 
-
+    public void printMatrix() {
+        System.out.println("Your matrix:");
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[i].length; j++) {
+                System.out.print(matrix[i][j] + " ");
+            }
+            System.out.println();
+        }
+    }
+    
 }
