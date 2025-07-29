@@ -10,7 +10,8 @@
     "java_basics/ex3_oop_basic/ex05_bank_account/src",
     "java_basics/ex5_list/ex2_employee_problem/src",
     "java_basics/ex6_matrix/ex1_simple_exercise/src",
-    "java_basics/ex6_matrix/ex2_matrix_problem/src"
+    "java_basics/ex6_matrix/ex2_matrix_problem/src",
+    "/java_date_hour/instance_type/src"
   ],
   "java.project.outputPath": "bin"
 }
