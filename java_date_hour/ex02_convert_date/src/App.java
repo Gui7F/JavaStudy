@@ -49,6 +49,17 @@ public class App {
         // Formatando data-hora global para texto customizado
         System.out.println(fmt4.format(dateHourGlobal));
 
+        //Agora aqui vamos converter data-hora global Instant para data-hora local
+
+        Instant dataGlobal = Instant.parse("2025-07-22T01:00:00Z"); //Londres 01:00
+        //Convertido para sua dada hora local
+        LocalDateTime dataConvertida = LocalDateTime.ofInstant(dataGlobal, ZoneId.systemDefault());
+
+        //Convertido para portugal
+        LocalDateTime dataPortugal = LocalDateTime.ofInstant(dataGlobal, ZoneId.of("Portugal"));
+
+        System.out.println("Data global covertida: " + dataConvertida ); //GTM seu sistema
+        System.out.println("Data global para portugal: "+ dataPortugal); //GTM+4
 
 
     }
