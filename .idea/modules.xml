@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex2_Input_output/Formaters/Formaters.iml" filepath="$PROJECT_DIR$/java_basics/ex2_Input_output/Formaters/Formaters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaStudy.iml" filepath="$PROJECT_DIR$/.idea/JavaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex2_Input_output/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/java_basics/ex2_Input_output/Scanner/Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_enum_composition/ex01_enum/ex01_enum.iml" filepath="$PROJECT_DIR$/java_enum_composition/ex01_enum/ex01_enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_date_hour/ex01_instance_type/ex01_instance_type.iml" filepath="$PROJECT_DIR$/java_date_hour/ex01_instance_type/ex01_instance_type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex3_oop_basic/ex01_product_class/ex01_product_class.iml" filepath="$PROJECT_DIR$/java_basics/ex3_oop_basic/ex01_product_class/ex01_product_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex4_array/ex01_soma_vetor/ex01_soma_vetor.iml" filepath="$PROJECT_DIR$/java_basics/ex4_array/ex01_soma_vetor/ex01_soma_vetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_enum_composition/ex02_comp_obj/ex02_comp_obj.iml" filepath="$PROJECT_DIR$/java_enum_composition/ex02_comp_obj/ex02_comp_obj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_date_hour/ex02_convert_date/ex02_convert_date.iml" filepath="$PROJECT_DIR$/java_date_hour/ex02_convert_date/ex02_convert_date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex4_array/ex02_negative_numbers/ex02_negative_numbers.iml" filepath="$PROJECT_DIR$/java_basics/ex4_array/ex02_negative_numbers/ex02_negative_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex3_oop_basic/ex02_triangle_class/ex02_triangle_class.iml" filepath="$PROJECT_DIR$/java_basics/ex3_oop_basic/ex02_triangle_class/ex02_triangle_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex3_oop_basic/ex02_triangle_class/src/ex02_triangle_class2.iml" filepath="$PROJECT_DIR$/java_basics/ex3_oop_basic/ex02_triangle_class/src/ex02_triangle_class2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_date_hour/ex03_calc_date/ex03_calc_date.iml" filepath="$PROJECT_DIR$/java_date_hour/ex03_calc_date/ex03_calc_date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex4_array/ex03_height_age_of_people/ex03_height_age_of_people.iml" filepath="$PROJECT_DIR$/java_basics/ex4_array/ex03_height_age_of_people/ex03_height_age_of_people.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex3_oop_basic/ex03_student_class/ex03_student_class.iml" filepath="$PROJECT_DIR$/java_basics/ex3_oop_basic/ex03_student_class/ex03_student_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex3_oop_basic/ex04_convert_coin/ex04_convert_coin.iml" filepath="$PROJECT_DIR$/java_basics/ex3_oop_basic/ex04_convert_coin/ex04_convert_coin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex4_array/ex04_even_numbers/ex04_even_numbers.iml" filepath="$PROJECT_DIR$/java_basics/ex4_array/ex04_even_numbers/ex04_even_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex3_oop_basic/ex05_bank_account/ex05_bank_account.iml" filepath="$PROJECT_DIR$/java_basics/ex3_oop_basic/ex05_bank_account/ex05_bank_account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex4_array/ex05_highest_position/ex05_highest_position.iml" filepath="$PROJECT_DIR$/java_basics/ex4_array/ex05_highest_position/ex05_highest_position.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex4_array/ex06_hotel_problem/ex06_hotel_problem.iml" filepath="$PROJECT_DIR$/java_basics/ex4_array/ex06_hotel_problem/ex06_hotel_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex5_list/ex1_basic_list/ex1_basic_list.iml" filepath="$PROJECT_DIR$/java_basics/ex5_list/ex1_basic_list/ex1_basic_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex1_first_steep/ex1_first_steep.iml" filepath="$PROJECT_DIR$/java_basics/ex1_first_steep/ex1_first_steep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex6_matrix/ex1_simple_exercise/ex1_simple_exercise.iml" filepath="$PROJECT_DIR$/java_basics/ex6_matrix/ex1_simple_exercise/ex1_simple_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex5_list/ex2_employee_problem/ex2_employee_problem.iml" filepath="$PROJECT_DIR$/java_basics/ex5_list/ex2_employee_problem/ex2_employee_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex6_matrix/ex2_matrix_problem/ex2_matrix_problem.iml" filepath="$PROJECT_DIR$/java_basics/ex6_matrix/ex2_matrix_problem/ex2_matrix_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics/ex3_oop_basic/ex3_oop_basic.iml" filepath="$PROJECT_DIR$/java_basics/ex3_oop_basic/ex3_oop_basic.iml" />
+    </modules>
+  </component>
+</project>

@@ -51,7 +51,7 @@ public class Worker {
     }
 
     public Departament getDepartament(){
-        return  departament;
+        return departament;
     }
 
     public void setDepartament(Departament departament){

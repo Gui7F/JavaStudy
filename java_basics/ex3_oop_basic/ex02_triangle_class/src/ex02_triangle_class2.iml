@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/application" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ex06_hotel_problem" />
+    <orderEntry type="module" module-name="ex02_triangle_class" />
+    <orderEntry type="module" module-name="ex01_enum" />
+    <orderEntry type="module" module-name="ex2_employee_problem" />
+    <orderEntry type="module" module-name="ex03_student_class" />
+    <orderEntry type="module" module-name="ex01_product_class" />
+    <orderEntry type="module" module-name="ex02_comp_obj" />
+    <orderEntry type="module" module-name="ex2_matrix_problem" />
+  </component>
+</module>
